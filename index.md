@@ -26,3 +26,20 @@
 | 18    | 3196919    |
 
 Summe: 24.324.360 Gold pro Raum auf Stufe 18
+
+## Reittiere
+### Farbschattierungen und wo man sie findet
+#### Manabike / Schweberad
+
+| Name (EN)            | Name (DE) | Quelle                               |
+| -------------------- | --------- | ------------------------------------ |
+| End of Eternity      |           | Teps Pyramide                        |
+| Bronze Age           |           | Mausoleum der Funken                 |
+| June Dune            |           | Tka Riks Cave                        |
+| Blizzard             |           | New Years Celebration (Winter Event) |
+| Currents of Infinity |           | Boutique                             |
+
+#### Lightning Bolt / Blitschlag
+| Name (EN)     | Name (DE) | Quelle                         |
+| ------------- | --------- | ------------------------------ |
+| Absolute Zero |           | Winter Holidays (Winter Event) |
