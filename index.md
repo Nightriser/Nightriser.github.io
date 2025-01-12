@@ -2,6 +2,20 @@
 
 ## Labyrinth
 
+### Monster
+
+#### Affe des Friedens
+
+![Affe des Friedens](Images/AffeDesFriedens.png)
+
+#### Wächterin
+
+![Waechterin](Images/Wächterin.png)
+
+### Fallen
+
+### Auren
+
 ### Aufwertungskosten 15.0
 
 | Stufe | Goldkosten |
