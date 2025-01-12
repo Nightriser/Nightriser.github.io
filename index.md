@@ -1,5 +1,7 @@
 # Allods Online
 
+{:toc}
+
 ## Labyrinth
 
 ### Monster
