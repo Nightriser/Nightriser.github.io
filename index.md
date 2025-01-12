@@ -1,6 +1,9 @@
 # Allods Online
+
 ## Labyrinth
+
 ### Aufwertungskosten 15.0
+
 | Stufe | Goldkosten |
 | ----- | ---------- |
 | 01    | 272920     |
