@@ -1,6 +1,6 @@
 # Allods Online
 
-* TOC {:toc}
+{% include toc.html html=content %}
 
 ## Labyrinth
 
