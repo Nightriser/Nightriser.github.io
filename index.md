@@ -2,9 +2,12 @@
 
 - [Allods Online](#allods-online)
   - [Labyrinth](#labyrinth)
-    - [Monster](#monster)
+    - [Räume](#räume)
+    - [Verteidiger](#verteidiger)
       - [Affe des Friedens](#affe-des-friedens)
       - [Wächterin](#wächterin)
+      - [TODO: Auge](#todo-auge)
+      - [TODO: Mimik](#todo-mimik)
     - [Fallen](#fallen)
     - [Auren](#auren)
     - [Aufwertungskosten 15.0](#aufwertungskosten-150)
@@ -15,7 +18,32 @@
 
 ## Labyrinth
 
-### Monster
+### Räume
+
+In einem Labyrinth können bis zu neun Räume gebaut werden.<br>
+Um einen Raum innerhalb eines Labyrinthes bauen zu können benötigt man Astralgranit. Dieses kann im Tausch gegen Embrium erhalten werden.<br>
+Ein Labyrinth kann drei verschiedene Raumtypen enthalten:<br>
+
+- Gang
+- Gabelung
+- Kreuzung
+
+Je mehr man von einer Sorte baut, desto teurer werden die Kosten für diesen Raum. Der Typus des Raumes bestimmt die Anzahl der Ausgänge zu weiteren Räumen und die Anzahl der Plätze für die Verteidiger. Bereits gebaute Räume können nur durch zwei Möglichkeiten verändert werden. (1. Kompletter Abriss des Labyrinths gegen Echtgeld oder 2. durch Schriftrollen der Verteidigerplatzänderung als Belohnung  der vorherigen Saison).<br>
+
+| Typus    | Eingänge | Ausgänge | Verteidigerplätze |
+| -------- | -------- | -------- | ----------------- |
+| Gang     | 1        | 1        | 1-3               |
+| Gabelung | 1        | 2        | 2-3               |
+| Kreuzung | 1        | 3        | 3                 |
+
+Verteidigerplätze werden zufällig von einen Algorithmus  beim Bau des Ganges erstellt. Jeder Verteidiger hat eine Seltenheitsstufe und kann auf dem entsprechenden Verteidigungsplatz gestellt werden.<br>
+
+Hier ein Beispiel für einen Verteidigerplatz<br>
+![Beispiel VerteidigerPlatz](Images/BeispielVerteidigerPlatz.png)
+
+### Verteidiger
+
+Verteidigerplätze werden zufällig von einen Algorithmus  beim Bau des Ganges erstellt. Jeder Verteidiger hat eine Seltenheitsstufe und kann auf dem entsprechenden Verteidigungsplatz gestellt werden.
 
 #### Affe des Friedens
 
@@ -24,6 +52,12 @@
 #### Wächterin
 
 ![Waechterin](Images/Wächterin.png)
+
+#### TODO: Auge
+
+#### TODO: Mimik
+
+
 
 ### Fallen
 
