@@ -1,6 +1,17 @@
 # Allods Online
 
-{% include toc.html html=content %}
+- [Allods Online](#allods-online)
+  - [Labyrinth](#labyrinth)
+    - [Monster](#monster)
+      - [Affe des Friedens](#affe-des-friedens)
+      - [Wächterin](#wächterin)
+    - [Fallen](#fallen)
+    - [Auren](#auren)
+    - [Aufwertungskosten 15.0](#aufwertungskosten-150)
+  - [Reittiere](#reittiere)
+    - [Farbschattierungen und wo man sie findet](#farbschattierungen-und-wo-man-sie-findet)
+      - [Manabike / Schweberad](#manabike--schweberad)
+      - [Lightning Bolt / Blitschlag](#lightning-bolt--blitschlag)
 
 ## Labyrinth
 
