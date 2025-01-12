@@ -1,6 +1,6 @@
 # Allods Online
 
-{:toc}
+* TOC {:toc}
 
 ## Labyrinth
 
@@ -44,7 +44,9 @@
 Summe: 24.324.360 Gold pro Raum auf Stufe 18
 
 ## Reittiere
+
 ### Farbschattierungen und wo man sie findet
+
 #### Manabike / Schweberad
 
 | Name (EN)            | Name (DE) | Quelle                               |
@@ -56,6 +58,7 @@ Summe: 24.324.360 Gold pro Raum auf Stufe 18
 | Currents of Infinity |           | Boutique                             |
 
 #### Lightning Bolt / Blitschlag
+
 | Name (EN)     | Name (DE) | Quelle                         |
 | ------------- | --------- | ------------------------------ |
 | Absolute Zero |           | Winter Holidays (Winter Event) |
