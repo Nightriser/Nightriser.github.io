@@ -21,21 +21,36 @@
 
 ## Addons
 ### 15.0
-Mit dem Wechsel zu 15.1 wurde die Luajit-Version erhöht. Dementsprechend funktionieren alte Addons, die kompiliert sind, nicht mehr.
-
-- [AT_AutoMountFeed von Engam](Addons/15.0/AT_AutoMountFeed_0.0.7.pak)
-- [AT_Notify von Engam & Verco](Addons/15.0/AT_Notify_0.0.9.pak)
-- - [BuildManager v13 von AnT](Addons/15.0/BuildManager.zip), [Alloder.pro](https://alloder.pro/files/file/117-buildmanager/?do=download&version=3597)
-  - V0.0.9: Suslanger-Kisten hinzugefügt
-- [Labmap, Fix von Engam](Addons/15.0/Labmap_15.0.pak)
-- [LibreAlchemy, übersetzt von Engam](Addons/15.0/LibreAlchemy_15.0.pak)
-- [samoletAddonPack by Eksperyment](Addons/15.0/samoletAddonPack.zip), [Alloder.pro](https://alloder.pro/files/file/698-samoletaddonpack/?do=download&confirm=1&version=3610&csrfKey=c424323d41c747d547947e2dc2d2a88f)
-- [StatManager von OLDOdin, übersetzt von Engam](Addons/15.0/StatManager-German-B8.pak)
-- [UniverseMeter](Addons/15.0/UniverseMeter.pak); [Alloder.pro](https://alloder.pro/files/file/447-universemeter/?do=download&version=3656)
+- AT_AutoMountFeed von Engam
+  - [Download](Addons/15.0/AT_AutoMountFeed_0.0.7.pak)
+- AT_Notify von Engam & Verco
+  - V0.0.9: Suslanger-Kisten hinzugefügt<br>[Download](Addons/15.0/AT_Notify_0.0.9.pak)
+- BuildManager v13 von AnT
+  - [Download](Addons/15.0/BuildManager.zip)
+  - [Alloder.pro](https://alloder.pro/files/file/117-buildmanager/?do=download&version=3597)
+- Labmap von ?
+  - Fix von Engam für 15.0<br>[Download](Addons/15.0/Labmap_15.0.pak)
+- LibreAlchemy von ?
+  - Übersetzt von Engam<br>[Download](Addons/15.0/LibreAlchemy_15.0.pak)
+- samoletAddonPack von Eksperyment
+  - [Download](Addons/15.0/samoletAddonPack.zip)
+  - [Alloder.pro](https://alloder.pro/files/file/698-samoletaddonpack/?do=download&confirm=1&version=3610&csrfKey=c424323d41c747d547947e2dc2d2a88f)
+- StatManager von OLDOdin
+  -  übersetzt von Engam<br>[Download](Addons/15.0/StatManager-German-B8.pak)
+- UniverseMeter von ?
+  - [Download](Addons/15.0/UniverseMeter.pak)
+  - [Alloder.pro](https://alloder.pro/files/file/447-universemeter/?do=download&version=3656)
 
 ### 15.1
+Mit dem Wechsel zu 15.1 wurde die Luajit-Version erhöht. Dementsprechend funktionieren alte Addons, die kompiliert sind, nicht mehr.
+
+- AT_Notify2 von Engam & Verco
+  - v2025-01-18_bad966: Fix für 15.1<br>[Download](Addons/15.1/AT_Notify_2025-01-18_bad966.pak)
 - BuildManager v13 von AnT -> siehe [15.0](#150)
-- [StatManager von OLDOdin, übersetzt von Engam](Addons/15.1/StatManager-German-B9.pak), [Alloder.pro - ohne Übersetzung](https://alloder.pro/files/file/373-menedzher-statov-v-shmotestatmanager/)
+- StatManager von OLDOdin
+  - Übersetzt von Engam
+  - [Download](Addons/15.1/StatManager-German-B9.pak)
+  - [Alloder.pro - ohne Übersetzung](https://alloder.pro/files/file/373-menedzher-statov-v-shmotestatmanager/)
 
 ## Labyrinth
 
