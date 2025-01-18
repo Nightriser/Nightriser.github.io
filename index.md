@@ -1,6 +1,9 @@
 # Allods Online
 
 - [Allods Online](#allods-online)
+  - [Addons](#addons)
+    - [15.0](#150)
+    - [15.1](#151)
   - [Labyrinth](#labyrinth)
     - [Räume](#räume)
     - [Verteidiger](#verteidiger)
@@ -15,6 +18,24 @@
     - [Farbschattierungen und wo man sie findet](#farbschattierungen-und-wo-man-sie-findet)
       - [Manabike / Schweberad](#manabike--schweberad)
       - [Lightning Bolt / Blitschlag](#lightning-bolt--blitschlag)
+
+## Addons
+### 15.0
+Mit dem Wechsel zu 15.1 wurde die Luajit-Version erhöht. Dementsprechend funktionieren alte Addons, die kompiliert sind, nicht mehr.
+
+- [AT_AutoMountFeed von Engam](Addons/15.0/AT_AutoMountFeed_0.0.7.pak)
+- [AT_Notify von Engam & Verco](Addons/15.0/AT_Notify_0.0.9.pak)
+- - [BuildManager v13 von AnT](Addons/15.0/BuildManager.zip), [Alloder.pro](https://alloder.pro/files/file/117-buildmanager/?do=download&version=3597)
+  - V0.0.9: Suslanger-Kisten hinzugefügt
+- [Labmap, Fix von Engam](Addons/15.0/Labmap_15.0.pak)
+- [LibreAlchemy, übersetzt von Engam](Addons/15.0/LibreAlchemy_15.0.pak)
+- [samoletAddonPack by Eksperyment](Addons/15.0/samoletAddonPack.zip), [Alloder.pro](https://alloder.pro/files/file/698-samoletaddonpack/?do=download&confirm=1&version=3610&csrfKey=c424323d41c747d547947e2dc2d2a88f)
+- [StatManager von OLDOdin, übersetzt von Engam](Addons/15.0/StatManager-German-B8.pak)
+- [UniverseMeter](Addons/15.0/UniverseMeter.pak); [Alloder.pro](https://alloder.pro/files/file/447-universemeter/?do=download&version=3656)
+
+### 15.1
+- BuildManager v13 von AnT -> siehe [15.0](#150)
+- [StatManager von OLDOdin, übersetzt von Engam](Addons/15.1/StatManager-German-B9.pak), [Alloder.pro - ohne Übersetzung](https://alloder.pro/files/file/373-menedzher-statov-v-shmotestatmanager/)
 
 ## Labyrinth
 
